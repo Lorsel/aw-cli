@@ -1,0 +1,6 @@
+[player]
+type = "vlc"
+path = "'whereis'"
+
+[syncplay]
+path = "'whereis'"
